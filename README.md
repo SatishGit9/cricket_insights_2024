@@ -7,7 +7,7 @@ Data Processing: Filtered matches played in 2024 and analyze the number of match
 Visualization: Generated visual insights in pie charts to show the proportion of different match types (ODI, T20, Test) played in 2024.
 
 **Output**
-The project generates visualizations that provide insights into the match types played in 2024.
+This project is to generates visualizations that provide insights of the match types played in 2024.
 
 **Data Source**
 The data is fetched from CricAPI, which provides access to live and historical cricket data.
